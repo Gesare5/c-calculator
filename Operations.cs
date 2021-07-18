@@ -31,16 +31,17 @@ namespace MyCalculatorApp
                 return 0;
             }
             return num1 / num2;
+
             // try
             // {
-            //     double result = num1 / num2;
+            //     return num1 / num2;
             // }
             // catch (DivideByZeroException)
             // {
             //     Console.WriteLine("Division of {0} by zero. Cannot be done.", num1);
-
+            //      return 0;
             // }
-            // return 0;
+            // 
         }
 
         public double SquareOperation(double num)
