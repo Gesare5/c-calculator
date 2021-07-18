@@ -1,0 +1,16 @@
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp.deps.json
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp.runtimeconfig.json
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp.runtimeconfig.dev.json
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp.dll
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/ref/MyCalculatorApp.dll
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/bin/Debug/net5.0/MyCalculatorApp.pdb
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.csproj.AssemblyReference.cache
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.AssemblyInfoInputs.cache
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.AssemblyInfo.cs
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.csproj.CoreCompileInputs.cache
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.dll
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/ref/MyCalculatorApp.dll
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.pdb
+/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/Debug/net5.0/MyCalculatorApp.genruntimeconfig.cache
