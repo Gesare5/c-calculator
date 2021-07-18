@@ -32,8 +32,8 @@ namespace MyCalculatorApp
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("Division of by zero. Cannot be done.", num1);
-                // throw;
+                Console.WriteLine("Division of {0} by zero. Cannot be done.", num1);
+               
             }
             return 0;
         }
