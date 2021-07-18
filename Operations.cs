@@ -25,17 +25,22 @@ namespace MyCalculatorApp
         // Method for division
         public double DivisionOperation(double num1, double num2)
         {
-            // return num1 / num2;
-            try
+
+            if (num2 == 0)
             {
-                double result = num1 / num2;
+                return 0;
             }
-            catch (DivideByZeroException)
-            {
-                Console.WriteLine("Division of {0} by zero. Cannot be done.", num1);
-               
-            }
-            return 0;
+            return num1 / num2;
+            // try
+            // {
+            //     double result = num1 / num2;
+            // }
+            // catch (DivideByZeroException)
+            // {
+            //     Console.WriteLine("Division of {0} by zero. Cannot be done.", num1);
+
+            // }
+            // return 0;
         }
 
         public double SquareOperation(double num)

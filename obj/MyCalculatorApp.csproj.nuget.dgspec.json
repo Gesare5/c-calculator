@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/MyCalculatorApp.csproj": {}
+    "/home/gesare/Documents/womentechsters/C#/week9/cloned/c-calculator/MyCalculatorApp.csproj": {}
   },
   "projects": {
-    "/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/MyCalculatorApp.csproj": {
+    "/home/gesare/Documents/womentechsters/C#/week9/cloned/c-calculator/MyCalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/MyCalculatorApp.csproj",
+        "projectUniqueName": "/home/gesare/Documents/womentechsters/C#/week9/cloned/c-calculator/MyCalculatorApp.csproj",
         "projectName": "MyCalculatorApp",
-        "projectPath": "/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/MyCalculatorApp.csproj",
+        "projectPath": "/home/gesare/Documents/womentechsters/C#/week9/cloned/c-calculator/MyCalculatorApp.csproj",
         "packagesPath": "/home/gesare/.nuget/packages/",
-        "outputPath": "/home/gesare/Documents/womentechsters/C#/week9/week task/MyCalculatorApp/obj/",
+        "outputPath": "/home/gesare/Documents/womentechsters/C#/week9/cloned/c-calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gesare/.nuget/NuGet/NuGet.Config"
